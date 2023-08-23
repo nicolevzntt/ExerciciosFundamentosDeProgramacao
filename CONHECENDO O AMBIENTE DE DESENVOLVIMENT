@@ -22,9 +22,6 @@ class Program {
   // SAÍDA
      Console.WriteLine ("O resultado da subtração dos dois números é: {0} - {1} = {2}", num1, num2, sub);
 
-
-    
-    
     Console.WriteLine ("<-----Atividade 2: O quadrado de cada número----->");
 
     // DECLARAÇÃO DE VARIAVEIS
@@ -38,15 +35,12 @@ class Program {
     Console.WriteLine("O quadrado de {0} é igual {1}", num1, quadrado1);
     Console.WriteLine("O quadrado de {0} é igual a {1}", num2, quadrado2);
 
-
-
-    
   Console.WriteLine ("<-----Atividade 2: A média dos dois números----->");
 
      //PROCESSAMENTO
       m = (num1+num2) / 2;
     
-    // SAIDA
+    // SAIDA DE DADOS
   Console.WriteLine("Então, a média dos números digitados é igual a {0}", m);
     
     
